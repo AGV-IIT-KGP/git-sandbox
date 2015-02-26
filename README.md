@@ -9,4 +9,5 @@ id>`.
 
 Abinash Meher <abinashdakshana999@gmail.com><br/>
 Aditya Narayan <narayanaditya95@gmail.com><br/>
-Harsh Gupta <gupta.harsh96@gmail.com>
+Harsh Gupta <gupta.harsh96@gmail.com><br/>
+Krishna Bagadia <krishna.bagadia2@gmail.com>
