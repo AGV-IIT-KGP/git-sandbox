@@ -7,4 +7,5 @@ a new brach and add your name and send a pull request. Your entry should
 maintain the alphabetic order and it should be in the format `your name <email
 id>`.
 
+Aranya Dan <aranya.dan1996@gmail.com>
 Harsh Gupta <gupta.harsh96@gmail.com>
