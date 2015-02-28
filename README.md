@@ -12,12 +12,12 @@ resource](https://help.github.com/articles/good-resources-for-learning-git-and-g
   - [This article](https://help.github.com/articles/using-pull-requests/) should give you a good idea of what pull requests are how to use them.
 
 
-Your entry should
-maintain the alphabetic order and it should be in the format `your name <email
-id>`.
+Your entry should maintain alphabetic order and it should be in the format
+`* your name`. This file is written in the [Markdown format](https://guides.github.com/features/mastering-markdown/)
+and the lines starting with `*` are automatically rendered as Bullet entries.
 
-Abinash Meher <abinashdakshana999@gmail.com><br/>
-Aditya Narayan <narayanaditya95@gmail.com><br/>
-Harsh Gupta <gupta.harsh96@gmail.com><br/>
-Krishna Bagadia <krishna.bagadia2@gmail.com><br/>
-Nevin Valsaraj <nevin.valsaraj32@gmail.com><br/>
+* Abinash Meher
+* Aditya Narayan
+* Harsh Gupta
+* Krishna Bagadia
+* Nevin Valsaraj
