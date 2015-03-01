@@ -22,3 +22,4 @@ and the lines starting with `*` are automatically rendered as Bullet entries.
 * Harsh Gupta
 * Krishna Bagadia
 * Nevin Valsaraj
+* Priyank Palod
