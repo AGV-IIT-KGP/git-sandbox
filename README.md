@@ -21,5 +21,5 @@ and the lines starting with `*` are automatically rendered as bullet points.
 * Arna Ghosh [arnaghosh](http://github.com/arnaghosh)
 * Harsh Gupta [hargup](http://github.com/hargup)
 * Krishna Bagadia [krishna95](http://github.com/krishna95)
-* Manash Pratim Das	[ManashRaja] (https://github.com/ManashRaja)
+* Manash Pratim Das	[ManashRaja](https://github.com/ManashRaja)
 * Nevin Valsaraj [routeaccess](http://github.com/routeaccess)
