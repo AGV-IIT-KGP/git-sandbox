@@ -12,27 +12,14 @@ resource](https://help.github.com/articles/good-resources-for-learning-git-and-g
   - [This article](https://help.github.com/articles/using-pull-requests/) should give you a good idea of what pull requests are how to use them.
 
 
-Your entry should maintain alphabetic order and it should be in the format:
-
-`* your name [username](http://github.com/username)`. 
-
-This file is written in the [Markdown format](https://guides.github.com/features/mastering-markdown/).
-
-Lines starting with `*` are automatically rendered as bullet points and phrases containing `[name](URL)` are automatically hyperlinked.
+Your entry should maintain alphabetic order and it should be in the format
+`* your name`. This file is written in the [Markdown format](https://guides.github.com/features/mastering-markdown/)
+and the lines starting with `*` are automatically rendered as bullet points.
 
 * Abinash Meher [abinashmeher999](http://github.com/abinashmeher999)
 * Aditya Narayan [narayanaditya95](http://github.com/narayanaditya95)
-* Aranya Dan [aranyadan](http://github.com/aranyadan)
 * Arna Ghosh [arnaghosh](http://github.com/arnaghosh)
-* Barnopriyo Barua [barno0695](http://github.com/barno0695)
 * Harsh Gupta [hargup](http://github.com/hargup)
-* Kalyan Kumar [kalyan-kumar](http://github.com/kalyan-kumar)
 * Krishna Bagadia [krishna95](http://github.com/krishna95)
-* Lovish Puri [lovishpuri](http:/github.com/lovishpuri)
 * Nevin Valsaraj [routeaccess](http://github.com/routeaccess)
-* Prabhat Agarwal [prabhat1081](http://github.com/prabhat1081)
-* Priyank Palod [priyankpalod](https://github.com/priyankpalod)
-* Shaswat Datta [Shaswat27] (http://github.com/Shaswat27) 
-* Siddharth Kannan [icyflame](http://github.com/icyflame)
-* Srichandra [srichandra](https://github.com/srichandra)
 * Vasudha Todi [todivasudha](https://github.com/todivasudha)
