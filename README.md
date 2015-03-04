@@ -22,4 +22,4 @@ and the lines starting with `*` are automatically rendered as bullet points.
 * Harsh Gupta [hargup](http://github.com/hargup)
 * Krishna Bagadia [krishna95](http://github.com/krishna95)
 * Nevin Valsaraj [routeaccess](http://github.com/routeaccess)
-* Vasudha Todi
+* Vasudha Todi [todivasudha](https://github.com/todivasudha)
