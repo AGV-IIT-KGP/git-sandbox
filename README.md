@@ -1,7 +1,7 @@
 This is a place to practice git. Your first exercise is to add your name to this list.
-To complete this exercise you need to:
+To complete this exercise ou need to:
 
-- **Learn to use git**:
+- **Learn to use git in a comprehensive manner**:
   - Go through the try git tutorial at https://try.github.io/levels/1/challenges/1
   - Read the first two chapters of the book [Pro Git](http://git-scm.com/book/en/v2)
 
@@ -27,4 +27,5 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Harsh Gupta [hargup](http://github.com/hargup)
 * Krishna Bagadia [krishna95](http://github.com/krishna95)
 * Nevin Valsaraj [routeaccess](http://github.com/routeaccess)
+* Saransh Sharma [sharma.saransh](http://github.com/sharma.saransh)
 * Siddharth Kannan [icyflame](http://github.com/icyflame)
