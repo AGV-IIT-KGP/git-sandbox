@@ -30,6 +30,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Lovish Puri [lovishpuri](http:/github.com/lovishpuri)
 * Nevin Valsaraj [routeaccess](http://github.com/routeaccess)
 * Prabhat Agarwal [prabhat1081](http://github.com/prabhat1081)
+* Priyank Palod [priyankpalod](https://github.com/priyankpalod)
 * Shaswat Datta [Shaswat27] (http://github.com/Shaswat27) 
 * Siddharth Kannan [icyflame](http://github.com/icyflame)
 * Srichandra [srichandra](https://github.com/srichandra)
