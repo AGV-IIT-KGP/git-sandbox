@@ -27,5 +27,5 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Harsh Gupta [hargup](http://github.com/hargup)
 * Krishna Bagadia [krishna95](http://github.com/krishna95)
 * Nevin Valsaraj [routeaccess](http://github.com/routeaccess)
-* Saransh Sharma [sharma.saransh](http://github.com/sharma.saransh)
+* Saransh Sharma [Saransh1Sharma](http://github.com/sharma.saransh)
 * Siddharth Kannan [icyflame](http://github.com/icyflame)
