@@ -29,6 +29,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Kalyan Kumar [kalyan-kumar](http://github.com/kalyan-kumar)
 * Krishna Bagadia [krishna95](http://github.com/krishna95)
 * Lovish Puri [lovishpuri](http:/github.com/lovishpuri)
+* Manash Pratim Das [ManashRaja](http://github.com/Manashraja)
 * Nevin Valsaraj [routeaccess](http://github.com/routeaccess)
 * Prabhat Agarwal [prabhat1081](http://github.com/prabhat1081)
 * Priyank Palod [priyankpalod](https://github.com/priyankpalod)
