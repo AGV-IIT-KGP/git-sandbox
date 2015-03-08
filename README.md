@@ -32,6 +32,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Nevin Valsaraj [routeaccess](http://github.com/routeaccess)
 * Prabhat Agarwal [prabhat1081](http://github.com/prabhat1081)
 * Priyank Palod [priyankpalod](https://github.com/priyankpalod)
+* Saransh Sharma [Saransh1Sharma](http://github.com/Saransh1Sharma)
 * Shaswat Datta [Shaswat27] (http://github.com/Shaswat27) 
 * Siddharth Kannan [icyflame](http://github.com/icyflame)
 * Srichandra [srichandra](https://github.com/srichandra)
