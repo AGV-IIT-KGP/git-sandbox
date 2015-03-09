@@ -38,3 +38,4 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Shaswat Datta [Shaswat27] (http://github.com/Shaswat27) 
 * Siddharth Kannan [icyflame](http://github.com/icyflame)
 * Srichandra [srichandra](https://github.com/srichandra)
+`*kenneth [knightshell301](https://github.com/knightshell301)`
