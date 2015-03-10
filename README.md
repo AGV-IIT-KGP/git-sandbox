@@ -22,17 +22,25 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 
 * Abinash Meher [abinashmeher999](http://github.com/abinashmeher999)
 * Aditya Narayan [narayanaditya95](http://github.com/narayanaditya95)
+<<<<<<< HEAD
 * Anum Raza [psychic-iguana](http://github.com/psychic-iguana)
+=======
+* Anurag Bharadwaj [chatrasen](http://github.com/chatrasen)
+>>>>>>> master
 * Aranya Dan [aranyadan](http://github.com/aranyadan)
 * Arna Ghosh [arnaghosh](http://github.com/arnaghosh)
 * Barnopriyo Barua [barno0695](http://github.com/barno0695)
+* Chinmoy Samant [chinmoysam](https://github.com/chinmoysam)
 * Harsh Gupta [hargup](http://github.com/hargup)
 * Kalyan Kumar [kalyan-kumar](http://github.com/kalyan-kumar)
 * Krishna Bagadia [krishna95](http://github.com/krishna95)
+* Kaustubh Hiware [kaustubhhiware](https://github.com/kaustubhhiware)
 * Lovish Puri [lovishpuri](http:/github.com/lovishpuri)
 * Nevin Valsaraj [routeaccess](http://github.com/routeaccess)
 * Prabhat Agarwal [prabhat1081](http://github.com/prabhat1081)
+* Pranai Kumar[pranaikumar](http://github.com/pranaikumar)
 * Priyank Palod [priyankpalod](https://github.com/priyankpalod)
+* Rameshwar Bhaskaran [zorroblue](https://github.com/zorroblue)
 * Shaswat Datta [Shaswat27] (http://github.com/Shaswat27) 
 * Siddharth Kannan [icyflame](http://github.com/icyflame)
 * Srichandra [srichandra](https://github.com/srichandra)
