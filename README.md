@@ -42,4 +42,3 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Siddharth Kannan [icyflame](http://github.com/icyflame)
 * Srichandra [srichandra](https://github.com/srichandra)
 * Varun Rawal [rawalvarun](https://github.com/rawalvarun)
-
