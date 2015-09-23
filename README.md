@@ -26,6 +26,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Anurag Bharadwaj [chatrasen](http://github.com/chatrasen)
 * Anum Raza [psychic-iguana](http://github.com/psychic-iguana)
 * Aranya Dan [aranyadan](http://github.com/aranyadan)
+* Arafat Dad Khan [Arafatk](https://github.com/Arafatk)
 * Arna Ghosh [arnaghosh](http://github.com/arnaghosh)
 * Barnopriyo Barua [barno0695](http://github.com/barno0695)
 * Chinmoy Samant [chinmoysam](https://github.com/chinmoysam)
