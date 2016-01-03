@@ -33,6 +33,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Chinmoy Samant [chinmoysam](https://github.com/chinmoysam)
 * Harsh Gupta [hargup](http://github.com/hargup)
 * Kalyan Kumar [kalyan-kumar](http://github.com/kalyan-kumar)
+* Kartikay singh [alphaguy4](http://github.com/alphaguy4)
 * Kaustubh Hiware [kaustubhhiware](https://github.com/kaustubhhiware)
 * Krishna Bagadia [krishna95](http://github.com/krishna95)
 * Kshitij Saraogi [kshitij10496](https://github.com/kshitij10496)
