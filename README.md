@@ -29,6 +29,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Arafat Dad Khan [Arafatk](https://github.com/Arafatk)
 * Aranya Dan [aranyadan](http://github.com/aranyadan)
 * Arna Ghosh [arnaghosh](http://github.com/arnaghosh)
+* Athitya Kumar [A-k-4-7](https://github.com/A-k-4-7)
 * Barnopriyo Barua [barno0695](http://github.com/barno0695)
 * Chinmoy Samant [chinmoysam](https://github.com/chinmoysam)
 * Harsh Gupta [hargup](http://github.com/hargup)
@@ -51,4 +52,4 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Srichandra [srichandra](https://github.com/srichandra)
 * Joseph Nii Lante Lamptey [niiwade](https://github.com/niiwade)
 * Utkarsh Gupta [khalibartan](https://github.com/khalibartan)
-* Athitya Kumar [A-k-4-7](https://github.com/A-k-4-7)
+
