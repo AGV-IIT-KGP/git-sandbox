@@ -39,6 +39,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Kshitij Saraogi [kshitij10496](https://github.com/kshitij10496)
 * Lovish Puri [lovishpuri](http:/github.com/lovishpuri)
 * Manash Pratim Das [ManashRaja](http://github.com/Manashraja)
+* Narendra Pal[npcoder2k14](https://github.com/npcoder2k14)
 * Nishant Nikhil [nishnik](http://github.com/nishnik)
 * Nevin Valsaraj [routeaccess](http://github.com/routeaccess)
 * Partha Sarathi Mishra [parthamishra1996](http://github.com/parthamishra1996)
