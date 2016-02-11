@@ -36,7 +36,10 @@ fs.readFile(filename, function(err, data) {
 		orgHash = crypto.createHash('sha256').update(lines.toString(), 'utf8').digest('hex');
 		sortedHash = crypto.createHash('sha256').update(copy.toString(), 'utf8').digest('hex');
 
-		console.log(orgHash == sortedHash);
-
+		if(orgHash !== sortedHash) {
+			process.exit(1);
+		} else {
+			process.exit();
+		}
 	}
 });
