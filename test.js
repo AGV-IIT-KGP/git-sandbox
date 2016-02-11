@@ -2,7 +2,7 @@ var fs = require('fs');
 var crypto = require('crypto');
 
 var filename = 'README.md';
-var entryRegex = /\*\s[a-zA-Z\s]*\s\[.*\]\(.*\)/g;
+var entryRegex = /\*\s([a-zA-Z]+\s)+\[.*\]\(.*\)/g;
 
 // read the file from the filesystem
 fs.readFile(filename, function (err, data) {
@@ -35,15 +35,20 @@ fs.readFile(filename, function (err, data) {
 
     // check if all entries match regex
     var checkFormat = lines.slice();
+    var flag = 0;
 
     for (i in checkFormat) {
       if (!checkFormat[i].match(entryRegex)) {
-        console.log('One of the entries does not match the format!');
         console.log('Fix this entry: ');
         console.log('--------------------');
         console.log(checkFormat[i]);
-        process.exit(1);
+        console.log('--------------------');
+        flag = 1;
       }
+    }
+
+    if (flag) {
+      process.exit(1);
     }
 
     // make a copy of the list that we will sort

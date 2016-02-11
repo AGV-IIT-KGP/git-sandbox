@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
-	"repository": "https://github.com/AGV-IIT-KGP/git-sandbox",
+  "repository": "https://github.com/AGV-IIT-KGP/git-sandbox",
   "homepage": "https://github.com/AGV-IIT-KGP/git-sandbox#readme",
   "dependencies": {
   }
