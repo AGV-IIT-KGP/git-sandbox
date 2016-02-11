@@ -14,7 +14,15 @@ resource](https://help.github.com/articles/good-resources-for-learning-git-and-g
 
 Your entry should maintain alphabetic order and it should be in the format:
 
-`* your name [username](http://github.com/username)`. 
+- `* your name [username](http://github.com/username)`.  
+
+Some more guidelines:
+
+* Your Pull Request must be rebased on the latest master.
+* Your Pull Request must have only one commit (If there are multiple commits, you should squash them).
+* This commit must have a message that resembles: `Add name to README (Name here)` (Use only first name in case the commit message goes over 50 characters).
+* Name of the PR must be informative: `Add my name to the README (Name here)`.
+* Only one file should be there in the diff of your Pull Request.
 
 This file is written in the [Markdown format](https://guides.github.com/features/mastering-markdown/).
 
