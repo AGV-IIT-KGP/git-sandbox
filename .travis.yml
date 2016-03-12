@@ -1,0 +1,5 @@
+sudo: false
+language: node_js
+script: node test.js
+node_js:
+  - '0.10'

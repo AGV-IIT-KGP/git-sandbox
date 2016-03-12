@@ -1,0 +1,13 @@
+{
+  "name": "git-sandbox",
+  "version": "1.0.0",
+  "description": "A place to practise Git",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": "https://github.com/AGV-IIT-KGP/git-sandbox",
+  "homepage": "https://github.com/AGV-IIT-KGP/git-sandbox#readme",
+  "dependencies": {
+  }
+}
