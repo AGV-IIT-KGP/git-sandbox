@@ -14,7 +14,7 @@ resource](https://help.github.com/articles/good-resources-for-learning-git-and-g
 
 Your entry should maintain alphabetic order and it should be in the format:
 
-- `* your name [username](http://github.com/username)`.  
+- `* your name [username](http://github.com/username)`.
 
 Some more guidelines:
 
