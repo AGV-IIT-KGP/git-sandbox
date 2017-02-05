@@ -62,6 +62,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Swastik Haldar [basher666](https://github.com/basher666)
 * Utkarsh Gupta [khalibartan](https://github.com/khalibartan)
 * Utkarsh Tyagi [utki96](https://github.com/utki96)
+* Vaibhav Agrawal [im-vaibhav](https://github.com/im-vaibhav)
 * Vasudha Todi [todivasudha](https://github.com/todivasudha)
 
 <!--ALPHAEND-->
