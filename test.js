@@ -14,8 +14,8 @@ fs.readFile(filename, function (err, data) {
     // to analyse
     var fileData = data.toString();
 
-    var startString = '<!--ALPHA-->';
-    var endString = '<!--ALPHAEND-->';
+    var startString = 'Avinab';
+    var endString = 'Saha';
     var startIndex = fileData.search(startString) + startString.length;
     var endIndex = fileData.search(endString);
 
