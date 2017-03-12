@@ -40,6 +40,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Aranya Dan [aranyadan](http://github.com/aranyadan)
 * Arijit Kar [arijitkar98](http://github.com/arijitkar98)
 * Arna Ghosh [arnaghosh](http://github.com/arnaghosh)
+* Atul Singhal [atul654](http://github.com/atul654)
 * Barnopriyo Barua [barno0695](http://github.com/barno0695)
 * Chinmoy Samant [chinmoysam](https://github.com/chinmoysam)
 * G Rahul Kranti Kiran [KrantiKiran](https://github.com/KrantiKIran)
