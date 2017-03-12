@@ -14,7 +14,7 @@ resource](https://help.github.com/articles/good-resources-for-learning-git-and-g
 
 Your entry should maintain alphabetic order and it should be in the format:
 
-- `* your name [username](http://github.com/username)`.  
+- `* your name [username](http://github.com/username)`.
 
 Some more guidelines:
 
@@ -59,6 +59,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Pranai Kumar [pranaikumar](http://github.com/pranaikumar)
 * Priyank Palod [priyankpalod](https://github.com/priyankpalod)
 * Rameshwar Bhaskaran [zorroblue](https://github.com/zorroblue)
+* Rohan Sood [rohansood42](https://github.com/rohansood42)
 * Satyesh Mundra [satyeshmundra](https://github.com/satyeshmundra)
 * Shaswat Datta [Shaswat27](http://github.com/Shaswat27) 
 * Siddharth Kannan [icyflame](http://github.com/icyflame)
