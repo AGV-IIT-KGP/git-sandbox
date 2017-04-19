@@ -32,6 +32,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Abhishek Kumar [shadow-stranger](http://github.com/shadow-stranger)
 * Abinash Meher [abinashmeher999](http://github.com/abinashmeher999)
 * Aditya Narayan [narayanaditya95](http://github.com/narayanaditya95)
+* Akhilesh Kumar [akhilesh-k](http://github.com/akhilesh-k)
 * Apoorva Kumar [rava-dosa](http://github.com/rava-dosa)
 * Ankur Garg [gargankur74](https://github.com/gargankur74)
 * Anum Raza [psychic-iguana](http://github.com/psychic-iguana)
