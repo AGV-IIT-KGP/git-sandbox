@@ -55,6 +55,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Nevin Valsaraj [routeaccess](http://github.com/routeaccess)
 * Nishant Nikhil [nishnik](http://github.com/nishnik)
 * Partha Sarathi Mishra [parthamishra1996](http://github.com/parthamishra1996)
+* Pedro Augusto [iamkamui](https://github.com/iamkamui)
 * Prabhat Agarwal [prabhat1081](http://github.com/prabhat1081)
 * Pranai Kumar [pranaikumar](http://github.com/pranaikumar)
 * Priyank Palod [priyankpalod](https://github.com/priyankpalod)
